@@ -1,2 +1,2 @@
 # pinterest-clon
-Proyecto creado en Tecnolochica Pro simulando la pagina principal de Pinterest
+Proyecto creado en Tecnolochicas Pro simulando la página principal de Pinterest
